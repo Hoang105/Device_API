@@ -1,0 +1,8 @@
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.csprojAssemblyReference.cache
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.AssemblyInfoInputs.cache
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.AssemblyInfo.cs
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.csproj.CoreCompileInputs.cache
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.MvcApplicationPartsAssemblyInfo.cs
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.RazorAssemblyInfo.cache
+F:\Angular\PhucThanh\Device_Api\DeviceProject\obj\Debug\netcoreapp3.0\DeviceProject.RazorAssemblyInfo.cs
